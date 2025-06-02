@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+h2{
+   margin: 10px;
+}
+
 .dice {
   text-align: center;
   display: inline-block;
